@@ -9,8 +9,8 @@
 
 ### 📂 Project Structure
 This analysis is divided into two parts:
-- **`01_Data_Cleaning_and_Prep.ipynb`**: Data Cleaning, Pre-processing, and initial data exploration.
-- **`02_Timeseries_and_Trend_Analysis.ipynb`**: Advanced visualization, timeseries plotting, and trend analysis.
+- [**01_Data_Cleaning_and_Prep.ipynb**](./01_Data_Cleaning_and_Prep.ipynb): Data Cleaning, Pre-processing, and initial data exploration.
+- [**02_Timeseries_and_Trend_Analysis.ipynb**](./02_Timeseries_and_Trend_Analysis.ipynb): Advanced visualization, timeseries plotting, and trend analysis.
 
 ---
 
@@ -23,9 +23,9 @@ This analysis is divided into two parts:
 
 ### 📊 Key Analysis Areas
 *(Based on the code implementation)*
-1.  **Data Cleaning:** Handling missing values and standardizing date formats for timeseries accuracy.
-2.  **Trend Analysis:** Plotting the growth of Confirmed Cases vs. Recoveries over time.
-3.  **Comparative Analysis:** comparing infection rates across different geographical regions.
+1. **Data Cleaning:** Handling missing values and standardizing date formats for timeseries accuracy.
+2. **Trend Analysis:** Plotting the growth of Confirmed Cases vs. Recoveries over time.
+3. **Comparative Analysis:** Comparing infection rates across different geographical regions.
 
 ---
 
