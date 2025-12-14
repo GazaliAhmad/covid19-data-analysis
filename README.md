@@ -9,8 +9,8 @@
 
 ### 📂 Project Structure
 This analysis is divided into two parts:
-- **`COVID19_Project_Implementation_01.ipynb`**: Data Cleaning, Pre-processing, and initial data exploration.
-- **`COVID19_Project_Implementation_02.ipynb`**: Advanced visualization, timeseries plotting, and trend analysis.
+- **`01_Data_Cleaning_and_Prep.ipynb`**: Data Cleaning, Pre-processing, and initial data exploration.
+- **`02_Timeseries_and_Trend_Analysis.ipynb`**: Advanced visualization, timeseries plotting, and trend analysis.
 
 ---
 
